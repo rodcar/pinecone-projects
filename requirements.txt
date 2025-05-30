@@ -10,3 +10,4 @@ dotenv
 jupyter
 matplotlib
 langchain
+pinecone_text
