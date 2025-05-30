@@ -7,4 +7,6 @@ python-dotenv
 openai
 ipykernel
 dotenv
-jupytermatplotlib
+jupyter
+matplotlib
+langchain
