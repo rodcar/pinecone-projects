@@ -1,0 +1,10 @@
+datasets
+transformers
+sentence_transformers
+pinecone
+fsspec==2023.9.2
+python-dotenv
+openai
+ipykernel
+dotenv
+jupytermatplotlib
