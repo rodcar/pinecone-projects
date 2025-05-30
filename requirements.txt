@@ -11,3 +11,5 @@ jupyter
 matplotlib
 langchain
 pinecone_text
+deepface
+tf-keras
